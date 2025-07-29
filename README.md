@@ -148,5 +148,5 @@ GEOCODING_PROVIDER=amap  # 支持: amap, baidu, google
 
 ## 联系方式
 
-- 项目链接: [https://github.com/your-username/MCP-Server-Geocoding](https://github.com/your-username/MCP-Server-Geocoding)
-- 问题反馈: [Issues](https://github.com/your-username/MCP-Server-Geocoding/issues)
+- 项目链接: [https://github.com/xyt662/MCP-Server-Geocoding](https://github.com/xyt662/MCP-Server-Geocoding)
+- 问题反馈: [Issues](https://github.com/xyt662/MCP-Server-Geocoding/issues)
